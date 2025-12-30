@@ -1,4 +1,4 @@
-# 📘 AZ-104 Lab – Azure File Sync Constraints (Question 111)
+# 📘 AZ-104 Lab – Azure File Sync Constraints 
 
 **Exam:** Microsoft AZ-104 – Azure Administrator
 
@@ -28,12 +28,20 @@ This lab focuses on platform-enforced behaviors rather than theoretical concepts
 - Azure File Sync Agent
 - Azure Windows Server VM (Server1)
 
-## 🧩 Skills Demonstrated
-- Azure File Sync architecture
-- Storage Sync Service configuration
-- Cloud endpoint and server endpoint constraints
-- Azure Windows Server integration
-- AZ-104 exam scenario validation
+---
+
+## 👨‍💻 Skills Demonstrated
+
+- Azure File Sync architecture, design constraints, and platform limits  
+- Azure Storage Accounts and Azure File Shares (Standard, LRS)  
+- Storage Sync Service and Sync Group configuration  
+- Cloud endpoint and server endpoint limitations  
+- Windows Server integration with Azure File Sync Agent  
+- Troubleshooting platform-enforced Azure limitations  
+- Mapping real Azure behavior to AZ-104 exam scenarios  
+
+---
+
 
 ---
 
