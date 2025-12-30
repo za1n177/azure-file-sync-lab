@@ -7,11 +7,12 @@
 ## 🧠 Objective
 Validate **Azure File Sync architectural constraints** commonly tested in the AZ-104 exam by reproducing them in a real Azure environment.
 
-This lab focuses on **what Azure allows and blocks**, not theory.
+This lab focuses on platform-enforced behaviors rather than theoretical concepts.
 
 ---
 
-## 🧪 Scenario Overview
+## 🧪 Lab Scenario
+
 - One Azure Storage Account
 - Two Azure File Shares: `share1`, `share2`
 - One Storage Sync Service
@@ -26,6 +27,13 @@ This lab focuses on **what Azure allows and blocks**, not theory.
 - Azure Storage Sync Service
 - Azure File Sync Agent
 - Azure Windows Server VM (Server1)
+
+## 🧩 Skills Demonstrated
+- Azure File Sync architecture
+- Storage Sync Service configuration
+- Cloud endpoint and server endpoint constraints
+- Azure Windows Server integration
+- AZ-104 exam scenario validation
 
 ---
 
@@ -90,3 +98,6 @@ Azure prevented adding a second server endpoint from the same server by removing
 
 ## 🎯 Why This Lab Matters
 This lab demonstrates **platform-enforced limits**, which is exactly how AZ-104 questions are designed.
+
+---
+**Disclaimer:** This lab is for learning and portfolio purposes only and does not include real exam questions or answers.
